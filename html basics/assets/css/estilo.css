@@ -1,0 +1,19 @@
+.titulo {
+    font-size: 30;
+    color: pink;
+}
+
+.sub--roxo {
+    font-size: 25;
+    color: blueviolet;
+}
+
+.sub--amarelo {
+    font-size: 25;
+    color: yellow;
+}
+
+.paragrafo {
+    font-size: 15;
+    color: black;
+}
