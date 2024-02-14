@@ -1,14 +1,14 @@
 .todo {
     display: flex;
     flex-direction: row;
-    background: cornflowerblue;
+    justify-content: center;
+    background: blue;
 }
 
 .item {
     padding: 20px;
-    background: blue;
+    background: cadetblue;
     color: white;
     margin: 5px;
-    flex: 1;
 }
 
