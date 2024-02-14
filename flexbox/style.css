@@ -8,14 +8,7 @@
     padding: 20px;
     background: blue;
     color: white;
-    margin: 10px;
+    margin: 5px;
     flex: 1;
 }
 
-.item--3 {
-    padding: 20px;
-    background: blue;
-    color: white;
-    margin: 10px;
-    flex: 2;
-}
