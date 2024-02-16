@@ -1,15 +1,21 @@
-.todo {
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.all {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background: blue;
+    background: cornflowerblue;
+    height: 100px;
 }
 
-.item {
-    padding: 20px;
-    background: cadetblue;
-    color: white;
-    margin: 5px;
+.part--logo {
+    flex: 1;
 }
 
+.part--menus {
+    flex: 1;
+}
