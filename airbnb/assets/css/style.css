@@ -50,10 +50,15 @@ body {
     height: 80px;
 }
 
+.item--menu {
+    font-family: 'airbnb--light';
+    font-weight: 500;
+    font-size: 17px;
+}
+
 .menu--flex {
     flex: 1;
 }
-
 
 .logo {
     margin-left: 80px;
