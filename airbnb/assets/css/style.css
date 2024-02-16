@@ -54,6 +54,16 @@ body {
     flex: 1;
 }
 
+.item--menu {
+
+}
+
 .logo {
     margin-left: 80px;
+}
+
+.menus {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
