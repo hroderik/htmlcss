@@ -34,3 +34,11 @@ body {
 .top--text:hover {
     color: #e0e0e0;
 }
+
+.background {
+    height: 560px;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
