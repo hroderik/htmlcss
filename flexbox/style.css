@@ -1,8 +1,10 @@
 .todo {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    background: blue;
+
+    background: rgb(255, 103, 103);
+    height: 500px;
 }
 
 .item {
@@ -10,5 +12,6 @@
     background: cadetblue;
     color: white;
     margin: 5px;
+    height: 20px;
 }
 
