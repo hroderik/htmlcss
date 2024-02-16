@@ -48,5 +48,8 @@ body {
     flex-direction: row;
     align-items: center;
     height: 80px;
-    background: black;
+}
+
+.menu--flex {
+    flex: 1;
 }
