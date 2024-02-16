@@ -17,6 +17,11 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 50px;
 }
 
 .part--menus {
