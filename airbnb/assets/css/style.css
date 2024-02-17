@@ -188,3 +188,11 @@ body {
     font-family: 'airbnb--light';
     font-weight: 400;
 }
+
+.separator {
+    position: absolute;
+    height: 35px;
+    width: 3px;
+    background: grey;
+    margin-left: 250px;
+}
