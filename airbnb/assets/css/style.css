@@ -253,11 +253,20 @@ body {
 
 .nature {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px;
 }
 
 .the--best {
-    font-size: 60px;
+    font-size: 55px;
     font-family: 'airbnb--bold';
     color: #222222;
+}
+
+.of--nature {
+    font-size: 55px;
+    font-family: 'airbnb--bold';
+    color: #222222;
+    margin-top: -20px;
 }
