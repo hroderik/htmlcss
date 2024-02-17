@@ -147,4 +147,5 @@ body {
     border: 0;
     border-radius: 45px;
     width: 62%;
+    display: flex;
 }
