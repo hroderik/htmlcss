@@ -151,3 +151,15 @@ body {
     flex-direction: row;
     align-items: center;
 }
+
+.item--search {
+    flex: 1;
+}
+
+.item--search--1 {
+    flex: 2;
+}
+
+.item--search--4 {
+    flex: 1.5;
+}
