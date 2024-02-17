@@ -177,5 +177,7 @@ body {
 }
 
 .first--item {
-    font-size: 15px;
+    font-size: 13px;
+    font-family: 'airbnb--light';
+    font-weight: 600;
 }
