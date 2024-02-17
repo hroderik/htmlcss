@@ -189,7 +189,7 @@ body {
     font-weight: 400;
 }
 
-.separator {
+.separator--1 {
     position: absolute;
     height: 35px;
     width: 1px;
