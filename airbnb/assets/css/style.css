@@ -133,3 +133,9 @@ body {
     margin-right: 10px;
     margin-left: 5px;
 }
+
+.search {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
