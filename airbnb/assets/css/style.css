@@ -233,6 +233,7 @@ body {
 
 .button--search:hover {
     background: #FF385C;
+    cursor: pointer;
 }
 
 .items--4 {
