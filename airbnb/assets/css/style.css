@@ -196,3 +196,19 @@ body {
     background: rgb(189, 188, 188);
     margin-left: 250px;
 }
+
+.separator--2 {
+    position: absolute;
+    height: 35px;
+    width: 1px;
+    background: rgb(189, 188, 188);
+    margin-left: 110px;
+}
+
+.separator--3 {
+    position: absolute;
+    height: 35px;
+    width: 1px;
+    background: rgb(189, 188, 188);
+    margin-left: 110px;
+}
