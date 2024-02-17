@@ -180,6 +180,7 @@ body {
     font-size: 12px;
     font-family: 'airbnb--light';
     font-weight: 600;
+    flex: 1;
 }
 
 .second--item {
@@ -232,4 +233,10 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.search--2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
