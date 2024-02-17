@@ -8,6 +8,11 @@
     src: url('../fonts/AirbnbCereal_W_Lt.otf');
 }
 
+@font-face {
+    font-family: 'airbnb--bold';
+    src: url('../fonts/AirbnbCereal_W_Bd.otf');
+}
+
 body {
     background: white;
     margin: 0;
@@ -253,8 +258,6 @@ body {
 
 .the--best {
     font-size: 60px;
-    font-family: 'airbnb--light';
-    font-weight: 900;
+    font-family: 'airbnb--bold';
     color: #222222;
-    padding: 90px;
 }
