@@ -154,12 +154,18 @@ body {
 
 .item--search {
     flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .item--search--1 {
-    flex: 2;
+    flex: 3;
+    display: flex;
+    flex-direction: column;
 }
 
 .item--search--4 {
-    flex: 1.5;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
 }
