@@ -175,3 +175,7 @@ body {
     flex-direction: column;
     margin-left: 30px;
 }
+
+.first--item {
+    font-size: 15px;
+}
