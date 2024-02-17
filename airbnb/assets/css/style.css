@@ -212,3 +212,11 @@ body {
     background: rgb(189, 188, 188);
     margin-left: 110px;
 }
+
+.button--search {
+    background: #FF385C;
+}
+
+.button--search:hover {
+    background: #E41D5D;
+}
