@@ -240,3 +240,7 @@ body {
     flex-direction: row;
     justify-content: flex-end;
 }
+
+.botao--search {
+    flex: 1;
+}
