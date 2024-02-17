@@ -259,7 +259,7 @@ body {
 }
 
 .the--best {
-    font-size: 55px;
+    font-size: 59px;
     font-family: 'airbnb--bold';
     color: #222222;
 }
@@ -286,5 +286,5 @@ body {
     font-family: 'airbnb--bold';
     cursor: pointer;
     width: 100px;
-    margin-top: -3px;
+    margin-top: -1px;
 }
