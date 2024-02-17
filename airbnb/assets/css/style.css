@@ -227,3 +227,9 @@ body {
 .button--search:hover {
     background: #FF385C;
 }
+
+.items--4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
