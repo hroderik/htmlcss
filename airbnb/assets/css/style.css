@@ -83,7 +83,7 @@ body {
     font-size: 'airbnb--light';
     font-size: 14px;
     font-weight: 600;
-    padding: 15px 15px;
+    padding: 12px 15px;
     border: 0;
     border-radius: 15px;
 }
@@ -91,4 +91,21 @@ body {
 .menu--button:hover {
     background: #f7f7f7;
     cursor: pointer;
+}
+
+.menu--icon {
+    background: transparent;
+    color: #222222;
+    border: 0;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.menu--icon:hover{
+    background: #f7f7f7;
+    cursor: pointer;
+}
+
+.icon--globe {
+    font-size: 21px;
 }
