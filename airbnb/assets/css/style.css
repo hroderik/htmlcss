@@ -276,3 +276,15 @@ body {
     font-family: 'airbnb--light';
     margin-top: -3px;
 }
+
+.inspire {
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 10px;
+    background: #222222;
+    color: white;
+    font-family: 'airbnb--bold';
+    cursor: pointer;
+    width: 100px;
+    margin-top: -3px;
+}
