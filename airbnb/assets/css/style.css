@@ -119,6 +119,9 @@ body {
     border-radius: 25px;
     cursor: pointer;
     padding: 8px;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
 }
 
 .icon--button {
@@ -127,4 +130,5 @@ body {
 
 .icon--button--menu {
     font-size: 18px;
+    margin-left: 5px;
 }
