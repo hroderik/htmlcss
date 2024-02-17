@@ -78,6 +78,7 @@ body {
 }
 
 .menu--button{
+    background: transparent;
     color: #222222;
     font-size: 'airbnb--light';
     font-size: 14px;
@@ -89,12 +90,5 @@ body {
 
 .menu--button:hover {
     background: #f7f7f7;
-    color: #222222;
-    font-size: 'airbnb--light';
-    font-size: 14px;
-    font-weight: 600;
-    padding: 15px 15px;
-    border: 0;
-    border-radius: 15px;
     cursor: pointer;
 }
