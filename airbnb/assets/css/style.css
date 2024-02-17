@@ -192,7 +192,7 @@ body {
 .separator {
     position: absolute;
     height: 35px;
-    width: 3px;
-    background: grey;
+    width: 1px;
+    background: rgb(189, 188, 188);
     margin-left: 250px;
 }
