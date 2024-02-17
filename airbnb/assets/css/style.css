@@ -138,4 +138,13 @@ body {
     height: 70px;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.div--search {
+    height: 100%;
+    background: white;
+    border: 0;
+    border-radius: 45px;
+    width: 62%;
 }
