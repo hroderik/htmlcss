@@ -278,13 +278,13 @@ body {
 }
 
 .inspire {
-    padding: 10px 10px;
+    padding: 8px 10px;
     border: 0;
     border-radius: 10px;
     background: #222222;
     color: white;
     font-family: 'airbnb--bold';
     cursor: pointer;
-    width: 100px;
-    margin-top: -1px;
+    width: 90px;
+    font-size: 14px;
 }
