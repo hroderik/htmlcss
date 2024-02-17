@@ -125,11 +125,11 @@ body {
 }
 
 .icon--button {
-    font-size: 30px;
-    margin-left: 5px;
-    margin-right: 10px;
+    font-size: 33px;
 }
 
 .icon--button--menu {
     font-size: 18px;
+    margin-right: 10px;
+    margin-left: 5px;
 }
