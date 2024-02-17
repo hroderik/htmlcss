@@ -118,18 +118,17 @@ body {
     border: 0;
     border-radius: 25px;
     cursor: pointer;
-    padding: 8px;
+    padding: 4px 10px;
     display: flex;
     align-items: center;
     margin-left: 15px;
 }
 
 .icon--button {
-    font-size: 25px;
+    font-size: 30px;
     margin-left: 5px;
 }
 
 .icon--button--menu {
     font-size: 18px;
-    margin-left: 5px;
 }
