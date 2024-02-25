@@ -512,7 +512,7 @@ body {
 }
 
 .footer {
-    height: 540px;
+    height: 240px;
     background: #f7f7f7;
     border-top: 1px solid rgb(230, 229, 229);
     padding: 45px 80px;
@@ -538,19 +538,19 @@ body {
 .item--footer p {
     font-family: 'airbnb-light';
     color: rgb(80, 80, 80);
-    font-size: 15x;
+    font-size: 15px;
     cursor: pointer;
 }
 
 .footer--end {
     border-top: 1px solid rgb(80, 80, 80); 
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
 }
 
 .footer--1 {
-
+    flex: 2;
 }
 
 .footer--1 p {
