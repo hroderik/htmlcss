@@ -319,11 +319,14 @@ body {
 }
 
 .texts--local {
-    flex: 4;
+    flex: 3;
+    display: flex;
+    flex-direction: column;
 }
 
 .img--local {
     border-radius: 10px;
     width: 100%;
     max-width: 65px;
+    
 }
