@@ -307,3 +307,8 @@ body {
     color: #222222;
 
 }
+
+.local--item {
+    flex: 1;
+    background: blue;
+}
