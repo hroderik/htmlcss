@@ -400,3 +400,10 @@ body {
 .host {
     padding: 10px 80px;
 }
+
+.image--host {
+    background-image: url(../images/host.jpg);
+    background-size: cover;
+    height: 400px;
+    border-radius: 15px;
+}
