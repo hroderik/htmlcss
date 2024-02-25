@@ -564,6 +564,7 @@ body {
     font-family: 'airbnb-light';
     color: rgb(80, 80, 80);
     font-size: 15px;
+    justify-content: space-around;
 }
 
 .footer--2 b {
@@ -574,4 +575,8 @@ body {
 .icon--globe--footer {
     font-size: 20px;
     margin-top: 15px;
+}
+
+.portuguese {
+    text-decoration: underline;
 }
