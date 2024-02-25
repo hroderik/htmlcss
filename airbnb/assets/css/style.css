@@ -481,4 +481,13 @@ body {
 
 .activities--item {
     flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.activities--item img {
+    width: 100%;
+    max-width: 340px;
+    height: 340;
+    border-radius: 12px;
 }
