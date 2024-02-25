@@ -376,6 +376,7 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
+
 }
 
 .place--item img {
@@ -383,6 +384,7 @@ body {
     height: 150px;
     max-width: 250px;
     border-radius: 12px;
+    cursor: pointer;
 }
 
 .place--item p {
@@ -390,4 +392,5 @@ body {
     color: #222222;
     font-size: 15px;
     margin-top: 8px;
+    cursor: pointer;
 }
