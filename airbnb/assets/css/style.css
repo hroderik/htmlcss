@@ -290,12 +290,21 @@ body {
     font-size: 14px;
 }
 
-.locals {
+.locals--1 {
     height: 80px;
     padding: 10px 80px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+}
+
+.locals--2 {
+    height: 80px;
+    padding: 10px 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: -15px;
 }
 
 .explore {
