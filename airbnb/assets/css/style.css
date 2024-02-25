@@ -426,3 +426,11 @@ body {
     margin-left: 80px;
     margin-top: -55px;
 }
+
+.image--host b {
+    color: black;
+    font-family: 'airbnb--light';
+    margin-left: 80px;
+    font-weight: 500;
+    font-size: 17px;
+}
