@@ -531,11 +531,11 @@ body {
     font-family: 'airbnb--bold';
     color: #3E2222;
     font-size: 14px;
+    font-weight: 500;
 }
 
 .item--footer p {
     font-family: 'airbnb-light';
     color: grey;
     font-size: 13px;
-    font-weight: 600;
 }
