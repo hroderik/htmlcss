@@ -452,6 +452,7 @@ body {
     width: 125px;
     margin-left: 80px;
     border-radius: 12px;
+    cursor: pointer;
 }
 
 .experience {
@@ -465,8 +466,13 @@ body {
 .activities {
     margin-left: 80px;
     font-family: 'airbnb--light';
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 600;
     color: #222222;
     margin-top: 5px;
+}
+
+.all--activities {
+    padding: 10px 80px;
+    height: 450px;
 }
