@@ -474,9 +474,10 @@ body {
 
 .all--activities {
     padding: 10px 80px;
-    height: 450px;
+    height: 350px;
     display: flex;
     justify-content: center;
+
 }
 
 .activities--item {
