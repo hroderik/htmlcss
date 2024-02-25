@@ -461,3 +461,12 @@ body {
     font-weight: 900;
     color: #222222;
 }
+
+.activities {
+    margin-left: 80px;
+    font-family: 'airbnb--light';
+    font-size: 25px;
+    font-weight: 600;
+    color: #222222;
+    margin-top: 5px;
+}
