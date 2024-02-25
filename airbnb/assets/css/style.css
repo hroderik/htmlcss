@@ -324,9 +324,15 @@ body {
     flex-direction: column;
 }
 
-.texts--local b{
-    font-style: 'airbnb-bold';
+.texts--local b {
+    font-style: 'airbnb--bold';
     font-size: 16px;
+    color: #222222;
+}
+
+.texts--local p {
+    font-style: 'airbnb--light';
+    font-size: 15px;
     color: #222222;
 }
 
