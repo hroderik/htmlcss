@@ -516,4 +516,5 @@ body {
     display: flex;
     background: #f7f7f7;
     border-top: 1px solid rgb(230, 229, 229);
+    padding: 45px 80px;
 }
