@@ -483,6 +483,7 @@ body {
     flex: 1;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 .activities--item img {
@@ -490,4 +491,19 @@ body {
     max-width: 340px;
     height: 340;
     border-radius: 12px;
+}
+
+.activities--item b {
+    font-family: 'airbnb--bold';
+    color: #222222;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.activities--item p {
+    font-family: 'airbnb--light';
+    color: gray;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 2px;
 }
