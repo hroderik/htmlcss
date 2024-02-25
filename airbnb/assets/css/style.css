@@ -475,4 +475,10 @@ body {
 .all--activities {
     padding: 10px 80px;
     height: 450px;
+    display: flex;
+    justify-content: center;
+}
+
+.activities--item {
+    flex: 1;
 }
