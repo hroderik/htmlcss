@@ -440,3 +440,15 @@ body {
     flex-direction: column;
     margin-top: -40px;
 }
+
+.image--host button {
+    background: white;
+    color: #222222;
+    border: 0;
+    padding: 16px 20px;
+    font-family: 'airbnb--bold';
+    font-size: 16px;
+    width: 125px;
+    margin-left: 80px;
+    border-radius: 12px;
+}
