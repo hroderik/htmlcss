@@ -321,3 +321,8 @@ body {
 .texts--local {
     flex: 4;
 }
+
+.img--local {
+    border-radius: 10px;
+    width: 100%;
+}
