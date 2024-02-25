@@ -319,6 +319,7 @@ body {
 .local--item {
     display: flex;
     flex: 1;
+    cursor: pointer;
 }
 
 .image--local {
