@@ -566,6 +566,11 @@ body {
     font-size: 15px;
 }
 
+.footer--2 b {
+    font-weight: normal;
+    color: #b9b9b9;
+}
+
 .icon--globe--footer {
     font-size: 20px;
     margin-top: 15px;
