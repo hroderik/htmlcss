@@ -367,7 +367,7 @@ body {
 
 .places {
     margin-top: 15px;
-    height: 310px;
+    height: 180px;
     padding: 10px 80px;
     display: flex;
     flex-direction: row;
@@ -405,5 +405,6 @@ body {
     background-image: url(../images/host.jpg);
     background-size: cover;
     height: 400px;
+    width: 1070px;
     border-radius: 15px;
 }
