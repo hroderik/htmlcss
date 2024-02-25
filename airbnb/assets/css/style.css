@@ -325,4 +325,5 @@ body {
 .img--local {
     border-radius: 10px;
     width: 100%;
+    max-width: 65px;
 }
