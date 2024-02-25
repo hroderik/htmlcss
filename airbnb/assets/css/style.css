@@ -561,4 +561,10 @@ body {
 
 .footer--2 p {
     flex: 1;
+    display: flex;
+    align-items: self-end;
+}
+
+.icon--globe--footer {
+    font-size: 20px;
 }
