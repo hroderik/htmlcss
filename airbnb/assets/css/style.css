@@ -379,14 +379,15 @@ body {
 }
 
 .place--item img {
-    width: 100%;
-    max-width: 260px;
+    width: 240px;
+    height: 150px;
+    max-width: 250px;
     border-radius: 12px;
 }
 
 .place--item p {
     font-family: 'airbnb--bold';
     color: #222222;
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 8px;
 }
