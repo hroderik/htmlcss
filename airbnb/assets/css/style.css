@@ -453,3 +453,11 @@ body {
     margin-left: 80px;
     border-radius: 12px;
 }
+
+.experience {
+    margin-left: 80px;
+    font-family: 'airbnb--bold';
+    font-size: 30px;
+    font-weight: 900;
+    color: #222222;
+}
