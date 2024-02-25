@@ -580,3 +580,11 @@ body {
 .portuguese {
     text-decoration: underline;
 }
+
+.brazilianfiat {
+    font-weight: 600;
+}
+
+.brl {
+    text-decoration: underline ;
+}
