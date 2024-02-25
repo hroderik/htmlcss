@@ -406,5 +406,8 @@ body {
     background-size: cover;
     height: 400px;
     width: 1070px;
-    border-radius: 15px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
