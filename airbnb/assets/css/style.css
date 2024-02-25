@@ -324,6 +324,12 @@ body {
     flex-direction: column;
 }
 
+.texts--local b{
+    font-style: 'airbnb-bold';
+    font-size: 16px;
+    color: #222222;
+}
+
 .img--local {
     border-radius: 10px;
     width: 100%;
