@@ -311,5 +311,13 @@ body {
 .local--item {
     display: flex;
     flex: 1;
-    background: rgb(255, 255, 255);
+    background:white;
+}
+
+.image--local {
+    flex: 1;
+}
+
+.texts--local {
+    flex: 4;
 }
