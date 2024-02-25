@@ -537,7 +537,7 @@ body {
 
 .item--footer p {
     font-family: 'airbnb-light';
-    color: grey;
-    font-size: 13px;
+    color: rgb(80, 80, 80);
+    font-size: 15x;
     cursor: pointer;
 }
