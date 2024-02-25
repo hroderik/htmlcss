@@ -421,14 +421,14 @@ body {
 
 .p--2 {
     font-size: 45px;
-    color: black;
+    color: #222222;
     font-family: 'airbnb--bold';
     margin-left: 80px;
     margin-top: -55px;
 }
 
 .image--host b {
-    color: black;
+    color: #222222;
     font-family: 'airbnb--light';
     margin-left: 80px;
     font-weight: 500;
@@ -442,8 +442,9 @@ body {
 }
 
 .image--host button {
-    background: white;
-    color: #222222;
+    margin-top: 15px;
+    background: #222222;
+    color: white;
     border: 0;
     padding: 16px 20px;
     font-family: 'airbnb--bold';
