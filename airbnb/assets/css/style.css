@@ -557,3 +557,7 @@ body {
     font-family: 'airbnb-light';
     color: #3E2222;
 }
+
+.footer--2 p {
+    flex: 1;
+}
