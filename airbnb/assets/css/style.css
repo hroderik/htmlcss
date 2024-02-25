@@ -364,6 +364,7 @@ body {
 }
 
 .places {
+    margin-top: 15px;
     height: 310px;
     padding: 10px 80px;
     display: flex;
@@ -379,5 +380,13 @@ body {
 
 .place--item img {
     width: 100%;
-    border-radius: 15px;
+    max-width: 280px;
+    border-radius: 12px;
+}
+
+.place--item p {
+    font-family: 'airbnb--bold';
+    color: #222222;
+    font-size: 18px;
+    margin-top: 8px;
 }
