@@ -313,7 +313,6 @@ body {
     font-size: 30px;
     font-weight: 900;
     color: #222222;
-
 }
 
 .local--item {
@@ -354,4 +353,20 @@ body {
     width: 100%;
     max-width: 65px;
     
+}
+
+.live {
+    margin-left: 80px;
+    font-family: 'airbnb--bold';
+    font-size: 30px;
+    font-weight: 900;
+    color: #222222;
+}
+
+.places {
+    height: 310px;
+    padding: 10px 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 }
