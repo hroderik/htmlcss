@@ -411,3 +411,18 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.p--1 {
+    font-size: 45px;
+    color: black;
+    font-family: 'airbnb--bold';
+    margin-left: 80px;
+}
+
+.p--2 {
+    font-size: 45px;
+    color: black;
+    font-family: 'airbnb--bold';
+    margin-left: 80px;
+    margin-top: -55px;
+}
