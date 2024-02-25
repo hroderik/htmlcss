@@ -548,3 +548,12 @@ body {
     flex-direction: row;
     align-items: center;
 }
+
+.footer--1 {
+
+}
+
+.footer--1 p {
+    font-family: 'airbnb-light';
+    color: #3E2222;
+}
