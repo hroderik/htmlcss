@@ -492,6 +492,7 @@ body {
     max-width: 340px;
     height: 340;
     border-radius: 12px;
+    cursor: pointer;
 }
 
 .activities--item b {
@@ -499,6 +500,7 @@ body {
     color: #222222;
     font-size: 16px;
     margin-top: 5px;
+    cursor: pointer;
 }
 
 .activities--item p {
